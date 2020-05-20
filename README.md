@@ -1,4 +1,4 @@
-# The Means Squares
+# The Means Squares - Car Rental System
 
 The goal of this project was to develop a car rental service software that can be implemented at rental companies to organize their information much better and have easy access to data as well as customers.
 
